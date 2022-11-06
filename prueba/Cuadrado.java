@@ -18,7 +18,7 @@ public static void adivi(int num){
         System.out.println("NO");
         inten=xc.nextDouble();
             } 
-        System.out.println("SI");    
+        System.out.println("SI mon");    
     }
     
 }
